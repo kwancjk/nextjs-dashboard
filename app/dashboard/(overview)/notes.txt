@@ -1,0 +1,11 @@
+Route groups allow you to organize files into logical groups without affecting the URL path structure. When you create a new folder using parentheses (), the name won't be included in the URL path. So /dashboard/(overview)/page.tsx becomes /dashboard.
+Here, you're using a route group to ensure loading.tsx only applies to your dashboard overview page. However, you can also use route groups to separate your application into sections (e.g. (marketing) routes and (dashboard) routes) or by teams for larger applications.
+
+https://nextjs.org/learn/dashboard-app/streaming
+
+Where you place your suspense boundaries will vary depending on your application. 
+*** In general, it's good practice to move your data fetches down to the components that need it, and then wrap those components in Suspense. 
+But there is nothing wrong with streaming the sections or the whole page if that's what your application needs.
+
+It's worth noting that wrapping a component in Suspense doesn't make the component itself dynamic (remember you used unstable_noStore to achieve this behavior), 
+but rather Suspense is used as a boundary between the static and dynamic parts of your route.

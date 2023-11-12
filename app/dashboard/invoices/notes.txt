@@ -1,0 +1,26 @@
+Search and pagination
+
+https://nextjs.org/learn/dashboard-app/adding-search-and-pagination
+
+There are three Next.js client hooks that you'll use to implement the search functionality:
+
+useSearchParams- Allows you to access the parameters of the current URL. For example, the search params for this URL /dashboard/invoices?page=1&query=pending would look like this: {page: '1', query: 'pending'}.
+usePathname - Lets you read the current URL's pathname. For example, the route /dashboard/invoices, usePathname would return '/dashboard/invoices'.
+useRouter - Enables navigation between routes within client components programmatically. There are multiple methods you can use.
+
+Here's a quick overview of the implementation steps:
+
+Capture the user's input.
+Update the URL with the search params.
+Keep the URL in sync with the input field.
+Update the table to reflect the search query.
+
+Debouncing is a programming practice that limits the rate at which a function can fire. In our case, you only want to query the database when the user has stopped typing.
+
+How Debouncing Works:
+
+Trigger Event: When an event that should be debounced (like a keystroke in the search box) occurs, a timer starts.
+Wait: If a new event occurs before the timer expires, the timer is reset.
+Execution: If the timer reaches the end of its countdown, the debounced function is executed.
+
+npm i use-debounce

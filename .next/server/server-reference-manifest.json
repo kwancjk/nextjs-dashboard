@@ -1,0 +1,58 @@
+{
+  "node": {
+    "96f51f3f3d23fd378b7ffc41042c5e13d9f73d1b": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnankamonporn%2FDesktop%2Fnextjs-dashboard%2Fapp%2Flib%2Faction.ts%22%2C%5B%22authenticate%22%2C%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnankamonporn%2FDesktop%2Fnextjs-dashboard%2Fapp%2Flib%2Faction.ts%22%2C%5B%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22%2FUsers%2Fnankamonporn%2FDesktop%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc"
+      }
+    },
+    "366e017db6da5abdf708ce44107785229d5d2501": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnankamonporn%2FDesktop%2Fnextjs-dashboard%2Fapp%2Flib%2Faction.ts%22%2C%5B%22authenticate%22%2C%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnankamonporn%2FDesktop%2Fnextjs-dashboard%2Fapp%2Flib%2Faction.ts%22%2C%5B%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22%2FUsers%2Fnankamonporn%2FDesktop%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc"
+      }
+    },
+    "ef200d96d6ee43c3ca60473ebe7f9f80f8b9fcad": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnankamonporn%2FDesktop%2Fnextjs-dashboard%2Fapp%2Flib%2Faction.ts%22%2C%5B%22authenticate%22%2C%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnankamonporn%2FDesktop%2Fnextjs-dashboard%2Fapp%2Flib%2Faction.ts%22%2C%5B%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22%2FUsers%2Fnankamonporn%2FDesktop%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc"
+      }
+    },
+    "d61ffad44198eebe3a937fbbd556ad2ad1e58fb4": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnankamonporn%2FDesktop%2Fnextjs-dashboard%2Fapp%2Flib%2Faction.ts%22%2C%5B%22authenticate%22%2C%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnankamonporn%2FDesktop%2Fnextjs-dashboard%2Fapp%2Flib%2Faction.ts%22%2C%5B%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22%2FUsers%2Fnankamonporn%2FDesktop%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc"
+      }
+    },
+    "4aab5379ae4aef7fc28c5c9e079fff0adc2bfa13": {
+      "workers": {
+        "app/dashboard/(overview)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnankamonporn%2FDesktop%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnankamonporn%2FDesktop%2Fnextjs-dashboard%2Fapp%2Flib%2Faction.ts%22%2C%5B%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22%2FUsers%2Fnankamonporn%2FDesktop%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/customers/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnankamonporn%2FDesktop%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/(overview)/page": "rsc",
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/customers/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "WN19PXpV7N+1IZae8BXbeZk44yqz5qfZ7ISGmKFbwdY="
+}
